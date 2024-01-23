@@ -6,6 +6,8 @@ This compiler currently just uses GPT-3.5 to do the compilation but there is no 
 
 ## Usage
 
+first add an `OPENAI_KEY` in the .env file. Then run the following commands:
+
 ```bash
 $ python compiler.py <input_file> --out <output_file>
 $ python <output_file>
