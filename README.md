@@ -17,6 +17,8 @@ $ python <output_file>
 
 Here is an example of using english to solve a very easy problem from the Canadian Computing Competition.
 
+Just like english each paragraph is it's own thing, every paragraph is sent as a separate prompt to the model. The model is given the previous paragraphs as context. Paragraphs are seperated by two newlines.
+
 ```english
 get the input from stdin turn it to an integer and store in a variable called n, don't prompt
 

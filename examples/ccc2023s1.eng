@@ -1,0 +1,15 @@
+get input don't prompt store as an int called n
+
+create a list called top which is the input split on each space
+create a list called bottom which is the input split on each space
+
+create a variable called border sum
+
+loop n times if there is a 1 at the current location if there is a 1 at the current location at top add 3 do the same if there is a 1 at the current location of bottom
+if there is a one to the right of the current position on the top and top at the current position is 1 subtract 1
+if there is a one to the left of the current position on the top and top at the current position is 1 subtract 1
+if there is a one to the right of the current position on the bottom and bottom at the current position is 1 subtract 1
+if there is a one to the left of the current position on the bottom and bottom at the current position is 1 subtract 1
+if both top and bottom at the current location are 1 and the current position is even subtract 2
+
+print the border sum

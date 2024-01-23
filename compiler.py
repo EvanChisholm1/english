@@ -22,7 +22,10 @@ messages = [
 ]
 
 
-text = open(in_file_path).readlines()
+text = open(in_file_path).read()
+text = text.split("\n\n")
+# print(text)
+# for t in text: print(t, '\n')
 
 outputs = []
 
