@@ -1,0 +1,13 @@
+create function called add and multiply that accepts a, b, and c then returns (a + b) * c
+
+run add and multiply with 3, 5 and 10 then print it
+
+find the root of 52 and store it in variable called rl
+
+for all the integers between 1 and 100 multiply by rl and print, also find the sum of all those values in a value called loop sum
+print loop sum
+
+declare a torch tensor filled with random values of shape 5 x 10 called a
+do the same as the above but for a variable called b
+
+matmul a and transposed b then print the result
