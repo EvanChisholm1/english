@@ -1,4 +1,4 @@
-# English Compiler
+# English Compiler - The Hottest New Programming Language
 
 [English is the hottest new programming language](https://twitter.com/karpathy/status/1617979122625712128), why is there no compiler for it? Well, now there is! Simply write some english "code" in a text file, run it through this compiler and you'll hopefully get a working python program!
 
@@ -31,3 +31,7 @@ loop n times and each time get stdin with no prompt this input is a kind of pepp
 
 print the total spiciness
 ```
+
+## IDE
+
+Since we are just writing English the hottest new IDE/text editor is also google docs. It supports autocorrect, a wide variety of formatting options, is available locally and in the cloud and exports to many formats.
