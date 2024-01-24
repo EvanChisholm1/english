@@ -35,3 +35,5 @@ print the total spiciness
 ## IDE
 
 Since we are just writing English the hottest new IDE/text editor is also google docs. It supports autocorrect, a wide variety of formatting options, is available locally and in the cloud and exports to many formats.
+
+![image of google docs being used to write english](https://raw.githubusercontent.com/EvanChisholm1/english/main/docs-ide.png)
